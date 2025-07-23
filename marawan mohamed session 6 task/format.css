@@ -1,0 +1,29 @@
+p, pre{
+    color: #f46f8f;
+    direction: ltr;
+    opacity: 1;
+    line-height: 25px;
+    letter-spacing: 21px;
+    word-spacing: 30px;
+    word-break: break-all;
+    word-wrap: break-word;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 4px 6px 3px gray;
+    text-indent: 50px;
+    text-align: left;
+}
+span{
+    color: red;
+}
+div{
+    color: aqua;;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}

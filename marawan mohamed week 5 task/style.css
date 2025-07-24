@@ -1,0 +1,56 @@
+
+.title{
+  font-size: 55px;        
+  font-weight: bolder;
+  position: absolute;
+  top: 10px;
+  right: 450px;
+}
+.red{color: #ff0000}
+
+.logo{
+  position: absolute;
+  top: 25px;
+  right: 820px;
+}
+.text{
+    position: absolute;
+    top: 33px;
+    right: 880px;
+    color: #ff0000;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.cal{
+    position: absolute;
+    top: 33px;
+    right: 1150px;
+}
+.date{
+    position: absolute;
+    top: 38px;
+    right: 1180px;
+}
+.clock{
+    position: absolute;
+    top: 33px;
+    right: 1330px;
+}
+.time{
+    position: absolute;
+    top: 36px;
+    right: 1360px;
+}
+.table{
+    position: absolute;
+    top: 70px;
+    right: 320px;
+    font-size: 18px;
+    color: #c5c5c5;
+}
+#sec{
+    background-color: rgb(67, 62, 62);
+    width: 100%;
+    position: absolute;
+    top: 82px;
+}
